@@ -1,5 +1,5 @@
+data/*
 !data/raw/sample_data.csv
 !data/processed/sample_data.csv
-data/raw/*
-data/processed/*
 .env
+!sample.env
