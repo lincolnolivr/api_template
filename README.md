@@ -1,2 +1,2 @@
 # api_template
-Template repository for python projects
+Template repository for python api projects
